@@ -1,42 +1,53 @@
-# 🐍 Python POO Training
+# 🐍 Python Training - POO
 
-Este repositório contém meus estudos de Programação Orientada a Objetos (POO) em Python.
+Repositório de estudos e treinos práticos de Programação Orientada a Objetos (POO) em Python.
 
 ---
 
-## 📚 Conteúdo estudado
+## 📚 Conteúdos praticados
 
 - Classes e Objetos
-- Construtor (__init__)
-- Métodos
-- Encapsulamento básico
+- Construtor (`__init__`)
+- Métodos e `return`
+- Encapsulamento (`_atributo`)
+- `@property` e `@setter`
 - Herança
 - Override (sobrescrita de métodos)
-- Uso de super()
-- Estrutura de projetos em Python
-- Controle de versão com Git
+- `super()`
+
+---
+
+## 🧪 Exercícios / Treinos
+
+Os arquivos contêm exercícios progressivos para fixar POO, incluindo desafios como:
+
+- Sistema de Conta Bancária (depositar, sacar, validações)
+- Sistema de Alunos (média e aprovação)
+- Sistema de Animais (herança e polimorfismo)
+- Treino final com Funcionários (encapsulamento + herança + override)
 
 ---
 
 ## 🎯 Objetivo
 
-Desenvolver base sólida em Python com foco em:
-- Área de dados
-- Estágio em desenvolvimento
-- Boas práticas de programação
+Evoluir para nível profissional em Python, com foco em:
 
----
-
-## 🧠 Sobre o projeto
-
-Este repositório representa minha evolução prática em POO, com exercícios progressivos e aplicação de conceitos fundamentais usados no desenvolvimento profissional.
+- Estágio e desenvolvimento backend
+- Área de dados (SQL + Python)
+- Boas práticas e código limpo
 
 ---
 
 ## 🚀 Próximos passos
 
-- Encapsulamento avançado (@property)
-- Classes abstratas (ABC)
-- SOLID principles
-- Projetos práticos em Python
-- Python para dados (pandas + SQL)
+- Classes abstratas (`ABC`)
+- SOLID Principles
+- Mini projetos completos
+- Python aplicado a dados (pandas + SQL)
+
+---
+
+## 🛠️ Como executar
+
+```bash
+python nome_do_arquivo.py
