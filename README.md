@@ -14,7 +14,6 @@ Repositório de estudos e treinos práticos de Programação Orientada a Objetos
 - Herança
 - Override (sobrescrita de métodos)
 - `super()`
-
 ---
 
 ## 🧪 Exercícios / Treinos
@@ -47,7 +46,7 @@ Evoluir para nível profissional em Python, com foco em:
 
 ---
 
-## 🛠️ Como executar
-
-```bash
-python nome_do_arquivo.py
+## about: git hub 🐈
+- `github:` 
+- `feat: Nova funcionalidade (afeta o código).`
+- `chore: Tarefa rotineira (não afeta o código de produção)`
